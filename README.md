@@ -5,9 +5,7 @@
   2. Folder `FC_HeloconiusHaplotagging`: more detailed folder with downstream analysis included
   `https://github.com/evolgenomics/HeliconiusHaplotagging` (cloned on 02.12.21)
   3. SnapdragonWalkthrough.md - everyday log
-
-
-
+  4. HaplotaggingPipeline_DS.txt - Sean and Dasha's extended walkthrough for the first steps
 
 
 #### Haplotagging pipelines from the main paper:
